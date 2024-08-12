@@ -1,0 +1,35 @@
+
+
+----------------------------
+Source: CGM_demo.csv
+----------------------------
+
+
+AUC for: Glucose_1 vs Glucose_2
+AUC Glucose_1 = 10194.5
+AUC Glucose_2 = 10710.0
+AUC ratio Glucose_1/Glucose_2 = 0.9518674136321195
+
+
+Zscore ratios for: Glucose_1 vs Glucose_2
+count    191.000000
+mean       0.146834
+std        4.383906
+min      -15.734407
+25%       -0.700736
+50%        0.050859
+75%        0.736203
+max       26.243992
+dtype: float64
+
+
+Spearman ranks
+Spearman r: 0.18870911248007047 and p-value: 0.00893779035580877
+
+
+Spearman correlation 1st-O diff:
+           Glucose_1  Glucose_2
+Glucose_1   1.000000  -0.023563
+Glucose_2  -0.023563   1.000000
+
+
